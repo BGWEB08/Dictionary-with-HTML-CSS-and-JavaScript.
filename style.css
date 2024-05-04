@@ -127,6 +127,10 @@ ul .word i {
     text-align: center;
 }
 
+.info span {
+    color: red;
+}
+
 .container ul {
     height: 0;
     opacity: 0;
