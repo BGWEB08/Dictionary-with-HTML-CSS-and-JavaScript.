@@ -8,7 +8,7 @@ removeIcon = container.querySelector(".search .cancel");
 
 function data(result, word) {
   if (result.title) {
-    infoText.innerHTML = `Couldn't find <span>${word}</span>. Please check the word.`;
+    infoText.innerHTML = `<span>Couldn't find <span>${word}</span>. Please check the word.</span>`;
   } else {
     container.classList.add("active");
     let definitions = result[0].meanings[0].definitions[0],
