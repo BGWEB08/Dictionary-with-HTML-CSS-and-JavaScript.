@@ -26,6 +26,5 @@ This project is a simple Dictionary App that allows users to search for the mean
 
 ## Demo
 
-![Dictionary App Image](https://github.com/YourUsername/YourRepoName/raw/main/images/dictionary-img-demo.png)
+![Dictionary App Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Dictionary/dictionary-img.png?raw=true)
 
-Translated with DeepL.com (free version)
